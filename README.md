@@ -11,7 +11,9 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 </div><br>
+
 ---
+
 ## 🔨 Skills
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
