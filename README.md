@@ -12,6 +12,10 @@
     </a>
 </div><br>
 
+<a href="https://www.notion.so/a2b510031b844195ad08ef46b59fb81f">
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+    </a><br>
+
 ---
 
 ## 🔨 Skills
